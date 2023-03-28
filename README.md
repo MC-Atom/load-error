@@ -6,6 +6,6 @@ Tested on Mac with an M1 Pro
 
 To reproduce, initialize the repository using https://motioncanvas.io/docs/
 run using `npm run serve`
-when reloading the localhost page, not all images will show up. When pressing play the moving image pops into existance. After moving the playhead with the cursor, all images pop into existance.
+when reloading the localhost page, not all images will show up. When pressing play the moving image pops into existance. After moving the playhead with the cursor, all images pop into existance. Can persist through the render when using multipule scenes.
 
 Video of this is showcased in ErrorsWhileLoading.mkv
